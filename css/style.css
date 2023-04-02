@@ -830,7 +830,7 @@ body{
 		}
 		.contact-form-phone::placeholder
 		{
-			color: #aaa;
+			color: rgb(247, 243, 243);
             font-size: 1.5rem;
 		}
 
