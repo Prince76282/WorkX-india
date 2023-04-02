@@ -792,7 +792,7 @@ body{
 		.contact-form-txtarea::placeholder
 		{
 			color: #aaa;
-            font-size: 1.5rem;
+            		font-size: 1.5rem;
 		}
 
 		.contact-form-btn
@@ -830,7 +830,9 @@ body{
 		}
 		.contact-form-phone::placeholder
 		{
-			color: rgb(247, 243, 243);		}
+			color: #aaa;
+            		font-size: 1.5rem;		
+		}
 
         .footer {
             position: relative;
