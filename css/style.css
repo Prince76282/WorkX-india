@@ -1099,10 +1099,10 @@ body{
     }
 
     .header .logo img{
-        width: 100%;
+        width: 150%;
         height: 10rem;
-        top: 4;
-        left: 1.5;
+        top: 0;
+        left: 0;
         background-size: cover;
     }
 
