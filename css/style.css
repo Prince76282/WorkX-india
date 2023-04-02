@@ -681,27 +681,6 @@ body{
     justify-content: center;
     padding: 1rem;
 }
-
-.team .row .card .info .icons .fa-facebook-f:hover, .footer .icons .fa-facebook-f:hover{
-    color: #4267B2;
-    text-decoration: none;
-}
-
-.team .row .card .info .icons .fa-twitter:hover, .footer .icons .fa-twitter:hover{
-    color: #1DA1F2;
-    text-decoration: none;
-}
-
-.team .row .card .info .icons .fa-instagram:hover, .footer .icons .fa-instagram:hover{
-    color: #d03010;
-    text-decoration: none;
-}
-
-.team .row .card .info .icons .fa-linkedin:hover, .footer .icons .fa-linkedin:hover{
-    color: #04052c;
-    text-decoration: none;
-}
-
 .team .row .card::before, .team .row .card::after{
     content: '';
     position: absolute;
